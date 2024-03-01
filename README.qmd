@@ -13,6 +13,8 @@ Report last run: `r Sys.time()`
 
 ## Introduction
 
+I made some changes to the file. Added this line.
+
 This is an example report that uses COVID-19 data from the New York Times to illustrate the use of automation processes.
 
 First, we load some necessary libraries, define some key variables, then read in the data:
